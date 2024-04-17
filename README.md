@@ -67,11 +67,14 @@ This project implements an Automatic Vehicle Identification Number using the YOL
     <img src="https://svglogos.net/wp-content/uploads/pytorch.svg" alt="Pytorch" width="130" height="110"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="130" height="110"/>
     <img src="https://n.sinaimg.cn/spider20230112/462/w846h416/20230112/c9d0-ab60f7bc0279569562a5f5461020683d.png" height="110"/>
+    <img src="http://www.jaided.ai/static/img/svg_icon/EasyOCR_OSS3.svg" height="110"/>
 </div>
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+Note: If you like this repository, kindly give it a star and share it with your peers , lets explore cutting edge technologies together.
 
 
 ## Contact
