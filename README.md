@@ -1,6 +1,6 @@
 # Automatic Vehicle Identification Number Tracker
 
-This project implements Automatic License Plate Recognition (ALPR) using the YOLOv8 object detection algorithm in Python. It provides functionality to detect license plates in images and videos, along with utilities for processing and testing.
+This project implements an Automatic Vehicle Identification Number using the YOLOv8 object detection algorithm in Python. It provides functionality to detect license plates in images and videos, along with utilities for processing and testing.
 
 ## Features
 
@@ -58,14 +58,15 @@ This project implements Automatic License Plate Recognition (ALPR) using the YOL
     python test.py
     
 ## Output    
-<center></center><img src="results/test.gif" alt="Test output"></center>
+<center></center><img src="results/test.gif" alt="Test output" height=400px width=600px></center>
 
 ## Tech Stack
 
 <div align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="130" height="110"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="130" height="110""/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="130" height="110" "/>
+    <img src="https://svglogos.net/wp-content/uploads/pytorch.svg" alt="Pytorch" width="130" height="110"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="130" height="110"/>
+    <img src="https://n.sinaimg.cn/spider20230112/462/w846h416/20230112/c9d0-ab60f7bc0279569562a5f5461020683d.png" height="110"/>
 </div>
 
 ## Contributing
