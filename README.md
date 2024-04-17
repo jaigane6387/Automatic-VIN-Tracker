@@ -15,7 +15,7 @@ This project implements Automatic License Plate Recognition (ALPR) using the YOL
     ├── license_plate.pt
 ├── sort
 ├── main.py
-├── utils.py
+├── util.py
 ├── test.py
 ├── requirements.txt
 ├── results
